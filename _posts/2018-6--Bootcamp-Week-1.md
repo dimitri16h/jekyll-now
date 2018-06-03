@@ -1,4 +1,4 @@
-# 16.7% Web Developer
+#### 16.7% Web Developer
 
 16.7% - 2 of 12 total weeks. That's how far we are into our Web Development Classes here at Awesome Inc for the 2018 Summer Cohort. We are trying to learn dozens of new skills here in just 3 months, to say that the information is coming fast is an understatement. It can be tough, but anything worth doing is nearly always difficult.
 
