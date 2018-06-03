@@ -1,23 +1,25 @@
-16.7%. 2 of 12 total weeks. That's how far we are into our Web Development Classes here at Awesome Inc for the 2018 Summer Cohort. We are trying to learn dozens of new skills here in just 3 months, to say that the information is coming fast is an understatement. It can be tough, but anything worth doing is difficult.
+# 16.7% Web Developer
+
+16.7% - 2 of 12 total weeks. That's how far we are into our Web Development Classes here at Awesome Inc for the 2018 Summer Cohort. We are trying to learn dozens of new skills here in just 3 months, to say that the information is coming fast is an understatement. It can be tough, but anything worth doing is nearly always difficult.
 
 Alot of people will tell you that the reason they chose to take part in a web development program or bootcamp like this, is to learn to make websites. It's true, that's what we are here to do, but they are missing a key part. Learning to make websites is the method in which we are taught, but it's not what we are being taught. We are learning concepts along the way that can later be reapplied in multiple different ideas, projects or professions.
 
 On a technical level, it's much easier to see, you can look at the technologies and languages we learn to use. In our first couple weeks we worked with a pretty large stack of languages and technologies already that include:
 
-	Git
-	GitHub
+- Git
+- GitHub
 
-	HTML
-	CSS
-	Javascript
+- HTML
+- CSS
+- Javascript
 
-	Node.js & npm
-	Gulp
-	Sass
-	Bootstrap
-	Express.js
+- Node.js & npm
+- Gulp
+- Sass
+- Bootstrap
+- Express.js
 
-	Heroku
+- Heroku
 
 While we can use all of these technologies to build the basis for a website, and we will add tools to them to make our websites more interactive and exciting, these aren't all that we are learning. Each of these tools has a specific process in a development cycle. By learning what goes into a development cycle and why we use each tool or what it does behind the scenes, we gain a better understanding of the bigger picture. For example, we learned git and github, not just to make websites, but to teach us about why version control is helpful and we learned about their features and how they work so that later, we understand what version control has to offer. Even if git doesn't meet our needs for a project, or we are required to use different version control, we know what we need and how to use it.
 
