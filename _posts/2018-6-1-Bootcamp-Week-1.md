@@ -8,17 +8,14 @@ On a technical level, it's much easier to see, you can look at the technologies 
 
 - Git
 - GitHub
-
 - HTML
 - CSS
 - Javascript
-
 - Node.js & npm
 - Gulp
 - Sass
 - Bootstrap
 - Express.js
-
 - Heroku
 
 While we can use all of these technologies to build the basis for a website, and we will add tools to them to make our websites more interactive and exciting, these aren't all that we are learning. Each of these tools has a specific process in a development cycle. By learning what goes into a development cycle and why we use each tool or what it does behind the scenes, we gain a better understanding of the bigger picture. For example, we learned git and github, not just to make websites, but to teach us about why version control is helpful and we learned about their features and how they work so that later, we understand what version control has to offer. Even if git doesn't meet our needs for a project, or we are required to use different version control, we know what we need and how to use it.
